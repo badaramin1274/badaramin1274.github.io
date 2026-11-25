@@ -1,1 +1,8 @@
-# badaramin1274.github.io
+# Badar Amin — Personal Portfolio
+
+My personal student portfolio website hosted via GitHub Pages at **https://badaramin1274.github.io/**.
+
+## Contents
+- `index.html` — Responsive single-page portfolio built with HTML and CSS.
+- `avatar.jpg` — Profile picture.
+- `LICENSE` — Open-source MIT License.
